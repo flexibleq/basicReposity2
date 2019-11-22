@@ -4,3 +4,8 @@ public
 static 
 void
 main
+public 
+class
+className
+reflect
+flush
