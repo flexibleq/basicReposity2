@@ -9,3 +9,8 @@ class
 className
 reflect
 flush
+spring
+springMVC
+mybatis
+git
+maven
